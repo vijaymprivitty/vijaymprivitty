@@ -1,9 +1,7 @@
-# Hi there, I'm Vijay Manoharan! 👋
-
 ![GitHub followers](https://img.shields.io/github/followers/vijaymprivitty?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/vijaymprivitty?style=social)
 
-- 👋 Hi, I’m @vijaymprivitty
+- 👋 Hi, I’m Vijay Manoharan!
 - 👀 I’m interested in creating web applications and mobile apps using react and react native
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on developing high end mobile applications
