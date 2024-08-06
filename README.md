@@ -5,9 +5,9 @@
 - 👀 I’m interested in creating web applications and mobile apps using react and react native
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on developing high end mobile applications
-- 📫 How to reach me 7619691877
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me +91 7619691877
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am a 3d and vfx hobbiest
 
 ## Contact Me
 
